@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="runof4"> </string>
+    <string name="runof8"> </string>
+    <string name="runof12"> </string>
+    <string name="runof16"> </string>
+    <string name="multi2"> </string>
+    <string name="multi4"> </string>
+    <string name="multi6"> </string>
+    <string name="multi8"> </string>
+    <string name="nobreak4"> </string>
+    <string name="nobreak8"> </string>
+    <string name="nobreak12"> </string>
+    <string name="nobreak16"> </string>
+</resources>

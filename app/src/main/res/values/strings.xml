@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pomo</string>
+
+    <string name="duration">Work Period</string>
+    <string name="long_break">Long Break</string>
+    <string name="short_break">Short Break</string>
+    <string name="period">Break Cycles</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="drawer_load">Load Routine</string>
+    <string name="drawer_new">New Routine</string>
+    <string name="drawer_cheevos">Acheivements</string>
+    <string name="drawer_unlocks">Unlockables</string>
+    <string name="drawer_stats">Your Statistics</string>
+    <string name="drawer_save">Save Routine</string>
+    <string name="drawer_diag_save">Name Your Routine</string>
+</resources>
